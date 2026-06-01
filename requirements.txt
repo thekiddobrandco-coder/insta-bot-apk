@@ -1,0 +1,7 @@
+Kivy==2.1.0
+uiautomator2==3.1.0
+opencv-python==4.5.5.62
+numpy==1.21.0
+Pillow==8.4.0
+Cython==0.29.30
+pyjnius==1.4.4
